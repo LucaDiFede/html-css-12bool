@@ -1,0 +1,31 @@
+.blue {
+    background-color: blue;
+}
+
+.container {
+    max-width: 1500px;
+    display: flex;
+}
+
+.display {
+    display: flex;
+    padding: 20px;
+}
+
+.inside {
+    padding: 20px;
+    background-color: green;
+    margin: 1px;
+}
+
+.inside-1 {
+    width: 20%;
+}
+
+.inside-2 {
+    width: 60%;
+}
+
+.inside-3 {
+    width: 50%;
+}
